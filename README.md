@@ -13,7 +13,7 @@ Easily add, view, and delete your expenses with a beautiful Kanagawa-inspired in
 
 ## Screenshot
 
-![Expense Tracker Screenshot](images/Screenshot%202025-07-01%20193247.pngscreenshot.png)
+![Expense Tracker Screenshot](images/Screenshot%202025-07-01%20193247.png)
 
 ## Installation
 
